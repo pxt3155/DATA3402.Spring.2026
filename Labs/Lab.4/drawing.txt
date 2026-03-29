@@ -1,0 +1,1 @@
+RasterDrawing(40,20,'.').add_shape(rectangle(6,4,2,2),'#').add_shape(circle(3,15,8),'o').add_shape(triangle(5,4,25,5),'^')
